@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the world of Feren
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a place where you can read notes about the world's lore and story.
+Hope it proves useful! 😊
