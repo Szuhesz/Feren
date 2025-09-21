@@ -1,7 +1,7 @@
 ---
 title: Races of Feren
 ---
-When the Celestials created humanity, they did so in their own image. And as such, humans came in many shapes and forms, each unique, yet reflecting a fragment of the divine. Humans are varied and adaptable. Their physical appearance is as diverse as their cultures, and no two humans are alike. They range from towering giants to slight, nimble figures.
+When the Celestials created humanity, they did so in their own image. And as such, humans came in many shapes and forms, each unique, yet reflecting a fragment of the Divine. Humans are varied and adaptable. Their physical appearance is as diverse as their cultures, and no two humans are alike. They range from towering giants to slight, nimble figures.
 
 * **Thaeran**
 	Thaeran stand around 5 to 6 feet tall, with builds that range from lean and wiry to broad and muscular, depending on their upbringing and profession.
