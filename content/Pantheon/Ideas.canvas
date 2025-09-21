@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"443d5ebf550bd940","type":"text","text":"**God**\n* Creator of the world, maker of mortals.\n* Considered to be the perfect entity. Divinity itself.\n* An abstraction above the Angels/Demons.\n* Morally ambiguous, their will a mystery.\n* Passive, not bothered by the world or their matters.","x":40,"y":-460,"width":360,"height":340},
+		{"id":"337fe255bb600453","type":"text","text":"**Ideas**\n* One Central God\n\t* The perfect entity\n\t* Unreachable\n\t* Distant, up for interpretation\n\t* Mortals virtually never interact with them\n* \"Children\"\n\t* Angels/Demons\n\t* They are equal in God's eyes\n\t* Each a manifestation of God's aspects\n\t* They each serve the higher will, but can be in conflict with each other\n\t* These entities' powers are in correlation with the concepts' presence on the Mortal Realm","x":-740,"y":-460,"width":380,"height":540},
+		{"id":"26dbf065b760d0e4","type":"text","text":"**Angels**\n* Mercy\n* Valour\n* Truth\n* Justice\n* Sacrifice\n* Temperance","x":-480,"y":520,"width":320,"height":240},
+		{"id":"c3330bd64e6aae0a","type":"text","text":"**Children**\n* God's children remain close to the Mortal Realm, to watch over it.\n* Each have their own personality, their own ambition.\n* They all serve the concept they manifest, wishing that it prevails on the Mortal Realm.\n* With the absence of God some seek domination.\n* They cannot die, only be forgotten.\n* They are in correlation with the amount of presence their concept wields on the Mortal Realm and how extreme their worship is.\n* They are separated into two categories by mortals. This is not a distinction by God, in their eyes they are equal!!!","x":20,"y":-60,"width":400,"height":460},
+		{"id":"7364aa4e14988f1f","type":"text","text":"**TODO**\n* Realms, and what realms are there?\n* Work out the individual Angels/Daemons!\n* Religious stories/legends.\n* Religious texts.\n* Religions.\n* Afterlife.\n* God was around in the early stages -> celestial conflict -> new age of divine absence","x":-320,"y":-460,"width":305,"height":540},
+		{"id":"3d6dc7fc21d8fa6d","type":"text","text":"**Objective Truth**\n* God created everything, the world, their children and mortals.\n* Their children represent parts of their being, concepts and aspects.\n* Their children's purpose is to further their concepts, therefore creating perfect balance.\n* The children often are in conflict with one another.\n* God \"left\" the mortal realm.\n* Both mortals and children were created in God's image.","x":1200,"y":-460,"width":580,"height":400},
+		{"id":"742eabe40d2ef1fc","type":"text","text":"**Creation Myth**\n* Creation of the world, and mortals.\n* Involvement from the deities.\n* Conflict risen during creation.\n* Concluding in the death/disappearance of God.","x":1900,"y":-460,"width":580,"height":400},
+		{"id":"5a4e57ca00df7a91","type":"text","text":"**Daemons**\n* Wrath\n* Pride\n* Avarice\n* Deceit\n* Fear\n* Hedonism","x":580,"y":520,"width":360,"height":240}
+	],
+	"edges":[
+		{"id":"0c960c4d0f525e80","fromNode":"443d5ebf550bd940","fromSide":"bottom","toNode":"c3330bd64e6aae0a","toSide":"top"},
+		{"id":"cffce2f64331ecf0","fromNode":"c3330bd64e6aae0a","fromSide":"bottom","toNode":"26dbf065b760d0e4","toSide":"top"},
+		{"id":"ed6c99bd9a52b497","fromNode":"c3330bd64e6aae0a","fromSide":"bottom","toNode":"5a4e57ca00df7a91","toSide":"top"}
+	]
+}

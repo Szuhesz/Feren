@@ -1,0 +1,2 @@
+**No step is far from the root that bore it.**
+Like flowers that bloom, or trees that grow, it all returns to whence they came. Part of the land, we never stray, yet in the end it is all the same. Emerge from nothing to trudge the path that was set, or yet to be carved. Matters not where you start, or where you end, for it all is where the root took heart. It is why we must preserve our home, our land and path that our children roam. The root lives through us all, stretching unseen beneath every step we take, and for that, though scattered, we are never truly apart.

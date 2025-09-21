@@ -1,0 +1,5 @@
+A promise was made, a promise of peace, of growth. But it was not kept. It could not be kept. Trust is a fragile thing. Yet for the sake of the land, it was given. And, as feared, it was betrayed. A fate darker than most dare dream. Beware the unseen, who haunt the ragged edges of fate.
+
+Shadows, obscurity, hidden. A force unbeaten, yet one that grows. It lurks and waits for the right moment. It plays tricks on our senses, yet we never truly know it is there. In the darkness of night, in places unknown, in uncertain minds, it lies dormant. And the mist... do not trust it. It is alive. It is wicked. It will take.
+
+Let this serve as a warning. If the Great Ones still live, it is not too late. Do not stray from the path, it is the only way that leads to our salvation. Trust only what is carved in stone, for it alone bears the true word of the land.
