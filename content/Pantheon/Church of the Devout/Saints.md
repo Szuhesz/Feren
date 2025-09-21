@@ -1,6 +1,3 @@
-
-
-
 ## Saint Diether
 #### Justice, Sacrifice, Truth
 Inquisitors, Justiciars, Veilbound Order
@@ -10,5 +7,3 @@ Magisters, Still Flame
 ## Saint Eliane
 #### Valour, Mercy
 Exemplars, Sacred Blade
-
-#TODO 
