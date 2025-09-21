@@ -10,6 +10,6 @@ Without their light however, we are merely shadows of their design. We have lost
 ## Those orange eyes...
 
 *Up in the branches, two orange eyes glimmer in the moonlight, smoldering like buried embers. They do not blink. They do not waver. They simply watch, fixed upon you... What a weird little guy...*
-<div style="text-align: center; margin: 0; border-radius: 0;">
+<div style="text-align: center;">
   <img src="Mysterious Owl Transparent.jpg" width="400">
 </div>
