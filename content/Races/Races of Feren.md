@@ -22,10 +22,3 @@ The races of Feren, however, extend beyond those mentioned. There are others who
 	A Shifter is a strange force of nature, as they hold no fixed physical appearance. Their form can shift at will, allowing them to assume the likeness of anyone they have seen before. This ability to change is not just a matter of appearance but extends to voice, mannerisms, and even the faintest details, making them perfect mimics.
 * **Vampire**
 	A Vampire is a creature of darkness, bound by a thirst for blood. Their physical appearance is often striking, with features that are simultaneously beautiful and haunting.
-
-
-Thaeran - west
-Rhovand - east
-Valar - north
-Narfellur - south
-Cordor - middle
