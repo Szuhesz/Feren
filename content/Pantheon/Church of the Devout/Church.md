@@ -8,11 +8,11 @@ Now, 162 cycles later, the Church of the Devout has spread far and wide, its inf
 
 ## Night of Forewarning
 
-On the fateful Night of Forewarning, the three Saints received their blessings—a night etched in history as the turning point of humanity’s decline. It was a vision, the heavens themselves fractured, a betrayal among the Celestials unleashing sorrow and ruin upon the world. Light waned in Feren, its embers fading, and with it came the burden of duty. Humanity alone was tasked with keeping the flame alive. United in purpose, the Saints banded together, spreading the word and preparing mankind for the battle against the encroaching darkness.
+On the fateful Night of Forewarning, the three Saints received their blessings, a night etched in history as the turning point of humanity’s decline. It was a vision, the heavens themselves fractured, a betrayal among the Celestials unleashing sorrow and ruin upon the world. Light waned in Feren, its embers fading, and with it came the burden of duty. Humanity alone was tasked with keeping the flame alive. United in purpose, the Saints banded together, spreading the word and preparing mankind for the battle against the encroaching darkness.
 
 ## Codex of Radiance
 
-The Saints transcribed their divine vision into sacred scripture—a holy book meant to guide humanity’s path forward. Within its pages lie the accounts of their blessings, a testament to the power bestowed upon them. It sets forth the lessons and values all must uphold, ensuring that the light does not wane in our time, nor in the generations to come.
+The Saints transcribed their divine vision into sacred scripture, a holy book meant to guide humanity’s path forward. Within its pages lie the accounts of their blessings, a testament to the power bestowed upon them. It sets forth the lessons and values all must uphold, ensuring that the light does not wane in our time, nor in the generations to come.
 
 # Pantheon
 
