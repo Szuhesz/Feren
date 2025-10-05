@@ -1,4 +1,3 @@
-
 There was nothing, but darkness, a gap without design  
 With one hand they create, while the other untwine  
 First came the children, twelve to fill the void  

@@ -1,6 +1,3 @@
----
-title: The Arcane
----
 ## Accessing the Arcane
 
 Magic in Feren is rare, bestowed upon few. To wield the arcane is to touch divinity itself. Despite centuries of study, scholars have found no clear pattern in who gains this power, yet certain traits appear time and time again. Unshakable faith is one such sign, many recorded Awakenings have occurred among the zealous, those whose devotion burns so fiercely that reality bends to their will. Other signs often lie in one’s lineage. The Ascended, in particular, are frequently born with an innate connection to the arcane, requiring no Awakening to wield its power. For most of them, magic is not a gift granted but a birthright, flowing through their very being.

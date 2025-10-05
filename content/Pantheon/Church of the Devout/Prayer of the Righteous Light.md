@@ -1,0 +1,1 @@
+I invoke the golden light from which the world sprang. Let the corrupt and unclean look upon the purifying flame and despair, fall and bend before this might, like long shadows cast by a setting sun.
