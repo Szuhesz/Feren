@@ -1,0 +1,3 @@
+It will find you, no matter what. Never sudden, but long and arduous. I wonder too often if it was always within us, down deep lurking, waiting for the moment to surge forth. By then its too late. Be sure to clutch onto what remains, so you may remove yourself gracefully.
+
+Though, that might be misleading. Not once have we seen their true self peek through. Every move as real as it comes, yet an abrupt change in their pattern. As if their own Spirit transforms under the strain of their mind. Hence the importance of community. Beware of solitude, for as peaceful as it may be, no one is around to warn you of your own insanity...

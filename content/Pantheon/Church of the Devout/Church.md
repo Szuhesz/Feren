@@ -1,6 +1,6 @@
 # Church of the Devout
 
-In the heart of the Therlands, the Church of the Devout stands as a powerful institution, its influence rivalling that of the Dynasty. Born two cycles after the first revelations, it began as little more than a gathering of the faithful, led by three saints: Diether, Allon, and Eliane. Yet faith, like fire, spreads. What was once a humble congregation soon grew, its influence reaching deep into the very foundation of the land.
+In the heart of the Therlands, the Church of the Devout stands as a powerful institution, its influence rivaling that of the Dynasty. Born two cycles after the first revelations, it began as little more than a gathering of the faithful, led by three saints: Diether, Allon, and Eliane. Yet faith, like fire, spreads. What was once a humble congregation soon grew, its influence reaching deep into the very foundation of the land.
 
 The three Saints, paragons of humanity, each performed great deeds in the name of the Divines. Diether, a resolute leader, struck down corruption with an unwavering hand. Allon, a beacon of wisdom, offered refuge and guidance to the lost and weary. And Eliane, fearless and unyielding, faced horrors beyond reckoning, her unmatched bravery shining in the darkness.
 
