@@ -15,7 +15,7 @@ The children to guide us, on our endless voyage
 
 Embody them all, for their design is plain  
 The divine within us shall ever remain  
-Whether it’s you, or those yet to rise  
+Whether it's you, or those yet to rise  
 Their light endures beyond our demise  
 
 Filled with drive and purpose, each seeking to reign  
