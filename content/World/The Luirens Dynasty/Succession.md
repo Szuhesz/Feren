@@ -1,0 +1,3 @@
+The Empire is a successive monarchy ruled through cognatic primogeniture, where inheritance passes to the eldest child, with male preference. This tradition begins with the Emperor and extends down through the ranks of the nobility. While the eldest child remains the primary heir near the Crown, the rules of succession begin to diverge the further one moves from the imperial center. Among lesser houses, succession becomes less rigid, shaped by local customs, political necessity, or sheer ambition.
+
+Conflicts over succession often arise from challenges to the legitimacy of royal blood, especially when it stands in contrast to questions of merit or capability.
