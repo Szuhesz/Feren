@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e7107a84e7ada4ce","type":"text","text":"# Witcher\n\n* Alghoul\n* Ghoul\n* Drowner\n* Banshee\n* Wraith\n* Griffin\n* Troll\n* Devourer\n* Harpy\n* Giant\n* Siren\n* Leahen\n* Nekker (rename)\n\n*https://thewitcher3.wiki.fextralife.com/Creatures+and+Monsters*","x":-540,"y":-540,"width":400,"height":500},
+		{"id":"640a077cd7dcb0dc","type":"text","text":"# TBD\n\nThese are monsters and beasts that fit the setting, but still are to be determined of their origins/categorizations.","x":-530,"y":-900,"width":380,"height":260},
+		{"id":"b0c7b86d0d4ec492","type":"text","text":"# Grim Hollow\n\n* Curse Monsters\n* Anguisher\n* Inkfester\n* Cadeer\n* Crawling Grave\n* Fate Cat\n* Grief Eater\n* Stugian Bat\n\n*https://anyflip.com/vchvk/xsbk/*\n*https://anyflip.com/ambzc/orvd*","x":-1060,"y":-540,"width":280,"height":420},
+		{"id":"a72c12f9da7e094b","type":"text","text":"# Beasts\n\n* Wolf\n* Bear\n* Mammoth\n* ","x":380,"y":60,"width":280,"height":260},
+		{"id":"2ce6b35529a6b00c","type":"text","text":"# MCDM\n\n* Blood Hawk\n* Owlbear\n\n*https://anyflip.com/sltja/hrkm/*\n**","x":80,"y":-540,"width":280,"height":360}
+	],
+	"edges":[
+		{"id":"b29b27bc68a8fd75","fromNode":"640a077cd7dcb0dc","fromSide":"bottom","toNode":"e7107a84e7ada4ce","toSide":"top"},
+		{"id":"b664e1268c074d9e","fromNode":"640a077cd7dcb0dc","fromSide":"bottom","toNode":"b0c7b86d0d4ec492","toSide":"top"}
+	]
+}
