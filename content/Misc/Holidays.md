@@ -26,7 +26,7 @@ The day's main spectacle happens in the capital, Crownseat. As a large military 
 ***
 # The Lightbearer's Rite
 
-In the hottest days of Suncrest, on the 15th of Highlight's eve, crowds form and march down streets and paths, carrying fire in all forms possible. These celebrations often involve whole settlements, as these fires are brought to the Church itself, where they are joined in a single, large pyre. It symbolizes the strength of communities, and meant to stand as a reminder of humanity's responsibility That even in good times, one must preserve the Light.
+In the hottest days of Suncrest, on the 15th of Highlight's eve, crowds form and march down streets and paths, carrying fire in all forms possible. These celebrations often involve whole settlements, as these fires are brought to the Church itself, where they are joined in a single, large pyre. It symbolizes the strength of communities, and meant to stand as a reminder of humanity's responsibility. That even in good times, one must preserve the Light.
 ***
 # Feste of the Scythe
 
@@ -47,12 +47,12 @@ Scattered and few, some places where the Church's reach is still weak, sacrifice
 ***
 # The Hearth Oath
 
-A holiday only celebrated within Styria. In the depths of Deepcold, on the 24th of Hayrest, where life centers around fires, oaths and pacts of old are renewed. Further strengthening the deep traditions and customs revolving around one's word and promise, that is binding over generations to come in these land and its people.
+A holiday only celebrated within Styria. In the depths of Deepcold, on the 24th of Hayrest, where life centers around fires, oaths and pacts of old are renewed. Further strengthening the deep traditions and customs revolving around one's word and promise, that is binding over generations to come in this land and its people.
 ***
 # Emberwake
 
-On the 21st of Dithis, the Church celebrates the day humanity received a Divine gift of foresight. This day each cycle, people gather to pray and maintain candles in an effort to pay homage to the Founding Saints, who heard the call of the Divines during the Night of Forewarning. This event set humanity on the right path, led by the Church.
+On the 21st of Dithis, the Church celebrates the day humanity received a Divine gift of foresight. Each cycle, people gather to pray and maintain candles on this day, in an effort to pay homage to the Founding Saints, who heard the call of the Divines during the Night of Forewarning. This event set humanity on the right path, led by the Church.
 ***
 # The Great Games
 
-The Great Games are a series of dramatic combat contests held in Tempest's Reach. These are cruel and sadistic shows in which slaves may fight for their freedom.
+The Great Games are a series of dramatic combat contests held in Tempest's Reach. These are cruel and sadistic shows in which slaves may fight for their freedom. There is no set date for this event, but a declaration in the early days of a cycle by the rulers of these lands, as it often depends on the supply of slaves.
