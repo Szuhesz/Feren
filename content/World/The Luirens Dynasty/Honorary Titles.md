@@ -1,4 +1,4 @@
-Honorary titles are granted to both nobles and common citizens. They often reflect one’s occupation and speak to their merit or worth. Holders frequently fulfill crucial roles within noble houses or organisations such as guilds. These titles appear in contexts like noble councils, guild leadership, and similar institutions. For lower class citizens, honorary titles provide one of the few avenues of social mobility, offering a path toward recognition and, in some cases, entry into the nobility. Below you can find some of them.
+Honorary titles are granted to both nobles and common citizens. They often reflect one's occupation and speak to their merit or worth. Holders frequently fulfill crucial roles within noble houses or organisations such as guilds. These titles appear in contexts like noble councils, guild leadership, and similar institutions. For lower class citizens, honorary titles provide one of the few avenues of social mobility, offering a path toward recognition and, in some cases, entry into the nobility. Below you can find some of them.
 # Nobility
 
 ### Master of Coin
