@@ -1,4 +1,4 @@
-*When fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.
+*When fighting a katakan one must pay particular attention to its shadow, often the only way to know its location.
 
 -Excerpt from: Lothar's Guide to Survival
 ***
